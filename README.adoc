@@ -1,6 +1,6 @@
-
-
 = Sistema de Gerenciamento de Biblioteca
+:toc: right
+:toclevels: 1
 
 == Sobre o Projeto
 
